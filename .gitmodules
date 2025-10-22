@@ -1,0 +1,9 @@
+[submodule "vpc"]
+	path = vpc
+	url = git@github.com:SokEarth/tba-infra-vpc.git
+[submodule "eks"]
+	path = eks
+	url = git@github.com:SokEarth/tba-infra-eks.git
+[submodule "k8s-addons"]
+	path = k8s-addons
+	url = git@github.com:SokEarth/k8s-addons.git
